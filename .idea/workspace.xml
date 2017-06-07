@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d92a9a1-a84d-49ae-ab5d-65dbc63319ea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IdeaIC2017.1/config/options/javaeeExternalResources.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IdeaIC2017.1/config/options/notifications.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IdeaIC2017.1/config/options/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/cachedDictionary.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/CLionProjects/untitled/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/codezilla/codezilla-a/dish-of-life.cpp" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/cpp1/parenthesis/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sarthak.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mnist_softmax.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__ch_qos_logback_logback_access_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_guava_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_hibernate5_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_github_spullara_mustache_java_compiler_0_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_google_guava_guava_21_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_mattbertolini_liquibase_slf4j_2_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__com_papertrail_profiler_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_assets_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_auth_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_configuration_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_core_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_db_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_hibernate_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_http2_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_jackson_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_jersey_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_jetty_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_lifecycle_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_logging_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_metrics_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_metrics_graphite_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_migrations_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_request_logging_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_servlets_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_testing_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_util_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_validation_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_freemarker_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_mustache_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_annotation_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_core_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_graphite_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_healthchecks_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jersey2_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jetty9_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_json_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jvm_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_logback_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_servlets_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__javax_el_javax_el_api_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__javax_transaction_jta_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__joda_time_joda_time_2_9_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__net_sourceforge_argparse4j_argparse4j_0_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_apache_tomcat_tomcat_jdbc_8_5_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_apache_tomcat_tomcat_juli_8_5_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_assertj_assertj_core_3_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_common_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_hpack_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_alpn_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_continuation_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlets_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_eclipse_jetty_toolchain_setuid_jetty_setuid_java_1_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_hk2_external_javax_inject_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_hk2_hk2_api_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_hk2_hk2_locator_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_hk2_hk2_utils_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_javax_el_3_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_containers_jersey_container_servlet_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_containers_jersey_container_servlet_core_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_client_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_common_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_server_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_ext_jersey_bean_validation_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_ext_jersey_metainf_services_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_media_jersey_media_jaxb_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_test_framework_jersey_test_framework_core_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_jersey_test_framework_providers_jersey_test_framework_provider_inmemory_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_glassfish_web_javax_el_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_2_8_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_hibernate_hibernate_entitymanager_5_2_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_4_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_jadira_usertype_usertype_core_6_0_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_jadira_usertype_usertype_spi_6_0_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_jboss_jandex_2_0_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_liquibase_liquibase_core_3_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_objenesis_objenesis_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/libraries/Gradle__org_yaml_snakeyaml_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/modules/coursedb.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/modules/coursedb_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/modules/coursedb_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/src/main/java/AppApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/src/main/java/AppConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/src/main/java/com/example/core/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/src/main/java/com/example/core/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/src/main/java/com/example/dao/CourseDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/src/main/java/com/example/dao/StudentDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/coursedb/src/main/resources/manifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__ch_qos_logback_logback_access_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_guava_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_hibernate5_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_github_spullara_mustache_java_compiler_0_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_google_guava_guava_21_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_mattbertolini_liquibase_slf4j_2_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__com_papertrail_profiler_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_assets_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_auth_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_configuration_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_core_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_db_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_hibernate_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_http2_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_jackson_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_jersey_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_jetty_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_lifecycle_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_logging_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_metrics_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_metrics_graphite_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_migrations_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_request_logging_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_servlets_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_testing_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_util_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_validation_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_freemarker_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_mustache_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_annotation_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_core_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_graphite_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_healthchecks_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jersey2_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jetty9_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_json_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jvm_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_logback_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_servlets_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__javax_el_javax_el_api_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__javax_transaction_jta_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__joda_time_joda_time_2_9_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__net_sourceforge_argparse4j_argparse4j_0_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_apache_tomcat_tomcat_jdbc_8_5_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_apache_tomcat_tomcat_juli_8_5_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_assertj_assertj_core_3_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_common_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_hpack_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_alpn_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_continuation_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlets_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_eclipse_jetty_toolchain_setuid_jetty_setuid_java_1_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_hk2_external_javax_inject_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_hk2_hk2_api_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_hk2_hk2_locator_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_hk2_hk2_utils_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_javax_el_3_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_containers_jersey_container_servlet_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_containers_jersey_container_servlet_core_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_client_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_common_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_server_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_ext_jersey_bean_validation_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_ext_jersey_metainf_services_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_media_jersey_media_jaxb_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_test_framework_jersey_test_framework_core_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_jersey_test_framework_providers_jersey_test_framework_provider_inmemory_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_glassfish_web_javax_el_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_2_8_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_hibernate_hibernate_entitymanager_5_2_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_4_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_jadira_usertype_usertype_core_6_0_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_jadira_usertype_usertype_spi_6_0_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_jboss_jandex_2_0_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_liquibase_liquibase_core_3_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_objenesis_objenesis_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/libraries/Gradle__org_yaml_snakeyaml_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/modules/courses.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/modules/courses_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/modules/courses_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/AppApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/AppConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/com/example/core/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/com/example/core/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/com/example/dao/CourseDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/com/example/dao/StudentDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/com/example/resources/CourseResources.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/com/example/resources/Requests.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/java/com/example/resources/StudentResources.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/resources/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/courses/src/main/resources/migrations.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__ch_qos_logback_logback_access_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_guava_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_hibernate5_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_github_spullara_mustache_java_compiler_0_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_google_guava_guava_21_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_mattbertolini_liquibase_slf4j_2_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__com_papertrail_profiler_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_assets_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_auth_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_configuration_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_core_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_db_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_hibernate_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_http2_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_jackson_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_jersey_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_jetty_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_lifecycle_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_logging_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_metrics_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_metrics_graphite_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_migrations_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_request_logging_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_servlets_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_testing_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_util_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_validation_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_freemarker_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_dropwizard_views_mustache_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_annotation_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_core_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_graphite_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_healthchecks_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jersey2_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jetty9_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_json_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_jvm_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_logback_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__io_dropwizard_metrics_metrics_servlets_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__javax_el_javax_el_api_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__javax_transaction_jta_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__joda_time_joda_time_2_9_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__net_sourceforge_argparse4j_argparse4j_0_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_apache_tomcat_tomcat_jdbc_8_5_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_apache_tomcat_tomcat_juli_8_5_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_assertj_assertj_core_3_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_common_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_hpack_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_http2_http2_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_alpn_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_continuation_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlets_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_4_2_v20170220.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_eclipse_jetty_toolchain_setuid_jetty_setuid_java_1_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_hk2_external_javax_inject_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_hk2_hk2_api_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_hk2_hk2_locator_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_hk2_hk2_utils_2_5_0_b32.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_javax_el_3_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_containers_jersey_container_servlet_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_containers_jersey_container_servlet_core_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_client_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_common_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_core_jersey_server_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_ext_jersey_bean_validation_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_ext_jersey_metainf_services_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_media_jersey_media_jaxb_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_test_framework_jersey_test_framework_core_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_jersey_test_framework_providers_jersey_test_framework_provider_inmemory_2_25_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_glassfish_web_javax_el_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_2_8_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_hibernate_hibernate_entitymanager_5_2_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_4_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_jadira_usertype_usertype_core_6_0_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_jadira_usertype_usertype_spi_6_0_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_jboss_jandex_2_0_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_liquibase_liquibase_core_3_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_objenesis_objenesis_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/libraries/Gradle__org_yaml_snakeyaml_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/modules/core.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/modules/core/core.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/modules/dropwizard1_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/modules/dropwizard1_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/app_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/src/main/java/AppConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/src/main/java/CleanCodeApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/src/main/java/com/example/core/Users.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/src/main/java/com/example/dao/FacebookDao.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/src/main/java/com/example/resources/FacebookResource.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/dropwizard1/src/main/resources/migrations.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/helloworld/.idea/kotlinc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/helloworld/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/helloworld/src/main/java/com/example/helloworld/HelloWorldApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/helloworld/src/main/java/com/example/helloworld/HelloWorldConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/helloworld/src/main/java/com/example/helloworld/api/Saying.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/helloworld/src/main/java/com/example/helloworld/health/TemplateHealthCheck.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/helloworld/src/main/java/com/example/helloworld/resources/HelloWorldResource.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/tryapp/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/tryapp/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/tryapp/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/tryapp/.idea/modules/tryapp_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/tryapp/.idea/modules/tryapp_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/tryapp/src/main/resources/migrations.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="mnist_softmax.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mnist_softmax.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mnist_softmax.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="52" />
+    <option name="width" value="927" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensorflow1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensorflow1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="RunManager" selected="Python.mnist_softmax">
+    <configuration default="false" name="mnist_softmax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_softmax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow1" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.mnist_softmax" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.mnist_softmax" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d92a9a1-a84d-49ae-ab5d-65dbc63319ea" name="Default" comment="" />
+      <created>1496836443582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496836443582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="52" width="927" height="1028" extended-state="4" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24668142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1317" column="0" lean-forward="false" selection-start-line="1317" selection-start-column="0" selection-end-line="1317" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_softmax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
